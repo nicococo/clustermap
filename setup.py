@@ -13,7 +13,7 @@ config = {
     'author_email': 'nico.goernitz@tu-berlin.de',
     'version': '2017.03',
     'install_requires': ['drmaa', 'pickle'],
-    'packages': ['tilitools'],
+    'packages': ['clustermap'],
     'package_dir' : {'clustermap': 'clustermap'},
     'classifiers':['Intended Audience :: Science/Research',
                    'Programming Language :: Python',
