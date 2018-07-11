@@ -12,7 +12,7 @@ config = {
     'author': 'Nico Goernitz',
     'author_email': 'nico.goernitz@tu-berlin.de',
     'version': '2017.3',
-    'install_requires': ['drmaa', 'pickle'],
+    'install_requires': ['drmaa'],
     'packages': ['clustermap'],
     'package_dir' : {'clustermap': 'clustermap'},
     'classifiers':['Intended Audience :: Science/Research',
