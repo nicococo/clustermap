@@ -11,7 +11,7 @@ config = {
     'url': 'https://github.com/nicococo/clustermap',
     'author': 'Nico Goernitz',
     'author_email': 'nico.goernitz@tu-berlin.de',
-    'version': '2017.03',
+    'version': '2017.3',
     'install_requires': ['drmaa', 'pickle'],
     'packages': ['clustermap'],
     'package_dir' : {'clustermap': 'clustermap'},
